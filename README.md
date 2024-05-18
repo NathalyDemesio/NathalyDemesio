@@ -9,6 +9,7 @@
   <img align="center" alt="Nathy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nathy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nathy-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="right" alt="Nathy" height="150" width="150" src="https://github.com/NathalyDemesio/NathalyDemesio/assets/163008302/b6d7a2a7-aa89-44ae-b80f-2b151262f6b3">
 </div>
 
   ##
