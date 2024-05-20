@@ -13,10 +13,8 @@
   <img align="center" alt="Nathy-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-  ##
-
   <div>
-      <h1> IDE que uso <h1>
+      <h1> IDE <h1>
       <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
       <img align="right" alt="Nathy" height="200" width="200" src="https://github.com/NathalyDemesio/NathalyDemesio/assets/163008302/2df5de7d-d3d8-432e-bba9-d5f5a248ba40"> 
   </div>
