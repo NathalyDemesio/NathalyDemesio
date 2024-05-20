@@ -3,6 +3,7 @@
 - 🌱 Estou estudando programação de soluções computacionais e modelagem de software.
 - 👩🏻‍🎓 1º semestre de Ciência da Computação, USJT.
 
+<img height = "180cm" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" />
 
 <div style="display: inline_block"><br>
   <h2> Linguagens <h2>
