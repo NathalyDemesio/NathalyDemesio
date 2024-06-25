@@ -1,7 +1,7 @@
 # Hello! My name is Nathaly Demesio
 
 - 🌱 I´m learning programming computational solutions and UML Diagrams.
-- 👩🏻‍🎓 1º semestre de Ciência da Computação, USJT.
+- 👩🏻‍🎓 Computer Science Student, USJT.
 
 <img height = "180cm" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" />
 
