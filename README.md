@@ -1,27 +1,38 @@
-# Hello! My name is Nathaly Demesio
+<img align="right" alt="Coding GIF" width="220" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29vMHhnY2RmeWlsM3E2NWo3MHBsZGdmZndkYmszMGx3ejJpNXJneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZCSZp478OpzSMpAAFc/giphy.gif">
 
-- 🌱 I´m learning computer systems and security, computing environments and connectivity.
-- 👩🏻‍🎓 Computer Science Student, USJT.
+# Hi there! I'm Nathaly Demesio 👋
 
+- 🎓 Computer Science Student at **USJT**
+- 🌱 Currently focusing on **Computer Systems, Security, and Python Development**
+- 💬 Ask me about **Python, Java, JavaScript, and Databases**
+- 📫 How to reach me:
 
-<div style="display: inline_block"><br>
-  <h2> Linguagens <h2>
-  <img align="center" alt="Nathy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nathy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nathy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nathy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Nathy-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Nathy-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
-</div>
+<p align="left">
+  <a href="mailto:nathalydemesio01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/nathaly-demesio-9964a42ab/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-  <div>
-      <h2> IDE <h2>
-      <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-      <img align="right" alt="Nathy" height="200" width="200" src="https://github.com/NathalyDemesio/NathalyDemesio/assets/163008302/2df5de7d-d3d8-432e-bba9-d5f5a248ba40"> 
-  </div>
- 
-<div> 
-  <a href = "mailto:nathalydemesio01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nathaly-demesio-9964a42ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<br clear="right"/>
 
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,java,mysql,git,github,vscode" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NathalyDemesio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathalyDemesio&layout=compact&langs_count=6&theme=tokyonight"/>
+</p>
